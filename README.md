@@ -1,2 +1,2 @@
-# word-list
+# word-lists
 contains word-lists
